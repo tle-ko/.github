@@ -1,4 +1,6 @@
-|     |                                            발표 자료                                             |
+<details><summary>발표자료 펼치기/접기</summary>
+
+  |     |                                            발표 자료                                             |
 | :-: | :-----------------------------------------------------------------------------------------: |
 |  1  | ![Slide1](https://github.com/user-attachments/assets/e3248983-19ec-46b2-b3b9-c514b6bb414c)  |
 |  2  | ![Slide2](https://github.com/user-attachments/assets/5d6e63d2-5dcf-4f4f-a836-b871b53e8928)  |
@@ -33,3 +35,6 @@
 | 31  | ![Slide31](https://github.com/user-attachments/assets/ecb47809-cb48-44a5-beee-2f1b6ad19028) |
 | 32  | ![Slide32](https://github.com/user-attachments/assets/60be7272-b028-4bb1-a2e4-a47ec79e6513) |
 | 33  | ![Slide33](https://github.com/user-attachments/assets/d2cb615c-225a-482b-8d6f-4e901386e8e1) |
+
+</details>
+
