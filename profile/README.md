@@ -16,6 +16,26 @@
 | <a href="https://github.com/hepheir"><img src="https://avatars.githubusercontent.com/u/19310326?v=4" width="120px" alt="김동주"/><br /><sub><b>hepheir</b></sub></a> | <a href="https://github.com/ohcuy"><img src="https://avatars.githubusercontent.com/ohcuy?s=100" width="120px" alt="조유진"/><br /><sub><b>ohcuy</b></sub></a> | <a href="https://github.com/Whatdoyumin"><img src="https://avatars.githubusercontent.com/u/90082215?v=4" width="120px" alt="이유민"/><br /><sub><b>Whatdoyumin</b></sub></a> | <a href="https://github.com/yun0329"><img src="https://avatars.githubusercontent.com/u/90076631?v=4" width="120px" alt="강윤진"/><br /><sub><b>yun0329</b></sub></a> |
 | 개발 PM<br/>Backend Lead Developer<br/>Infrastructure<br/>AI Research & MLOps | 기획 PM<br/>Frontend Developer<br/>UI/UX Design<br/>Infrastructure<br/>AI Research & Visualization | Frontend Lead Developer<br/>Infrastructure | Frontend Developer<br/>Data ETL |
 
+### ✏️ 프로젝트 기획 배경 및 문제 해결 과정
+#### 문제 인식
+코딩 테스트는 IT 분야 취업 및 이직을 준비하는 이들에게 **기술 역량을 평가받는 핵심 관문**입니다. 기업들이 채용 과정에서 이를 적극적으로 활용하면서, 많은 예비 개발자들이 코딩 테스트 준비에 상당한 시간과 노력을 들이고 있습니다.
+
+이 과정은 쉽지 않고, 특히 지역 간 **학습 자원의 불균형**은 여전히 큰 장벽으로 작용하고 있습니다. 수도권에 비해 지방은 알고리즘 스터디 참여나 피드백 받을 기회가 현저히 부족하며, 함께 공부할 동료를 찾기도 어렵습니다.
+실제로 한 팀원은 지방 거주 당시 알고리즘 스터디에 참여하고 싶었지만, 함께할 사람을 모으기도, 홍보하기도 쉽지 않은 현실에 부딪혔습니다.
+
+#### 해결 방안
+이러한 문제의식을 바탕으로, **누구나 장소에 구애받지 않고 체계적으로 코딩 테스트를 준비**할 수 있는 온라인 플랫폼의 필요성을 느꼈습니다.
+단순한 문제 풀이를 넘어, **학습의 흐름과 사람 간의 연결**을 함께 설계하고자 했습니다.
+
+TLE는 단순한 알고리즘 문제 풀이 서비스를 넘어서는,
+**효율적이고 지속 가능한 코딩 테스트 준비**를 위한 통합 학습 플랫폼입니다.
+
+#### 주요 기능
+- 🔍 문제 분석 기반 학습 – 단순 정답이 아닌 알고리즘적 사고를 길러주는 해설 및 분석 지원
+- 👥 스터디 그룹 관리 – 그룹 생성부터 참여, 학습 진행을 한 플랫폼에서 효율적으로 모두 한 곳에서 간편하게 관리
+- 🧑‍💻 코드 리뷰 & 피드백 – 서로의 코드를 읽고, 질문하고, 성장할 수 있는 상호 학습 구조
+
+**혼자보다 함께, 지역과 환경의 제약 없이, 누구든 효과적으로 성장할 수 있도록** 돕는 것이 TLE의 목표입니다.
 
 ## 2. 개발 환경
 ### ⚙️ 환경 설정
